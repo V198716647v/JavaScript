@@ -1,3 +1,3 @@
-const prompt = require('prompt-sync') ();
-let name = prompt("введите свое имя:");
-console.log(`Привет,${name}!`);
+const prompt = require('prompt-sync')();
+let name = prompt("Введите своё имя: ");
+console.log(`Привет, ${name}!`);
